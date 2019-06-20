@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>googletagmanager</name>
+	<displayName><![CDATA[Google Tag Manager]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[A&ntilde;ade tags y no mires atr&aacute;s]]></description>
+	<author><![CDATA[Rodrigo Varela Tabuyo]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<confirmUninstall><![CDATA[¿Está seguro de quieres desinstalar este módulo?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
